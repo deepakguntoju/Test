@@ -1,3 +1,3 @@
 # Test
 
-![malicious image](https://gitlab.com/your_user/your_project/-/raw/main/path/to/sns%22onerror%3Dalert(1)%22.png)
+![malicious image](https://github.com/deepakguntoju/Test/blob/main/sns%2522onerror%253Dalert(1)%2522.png)
